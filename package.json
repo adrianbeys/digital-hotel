@@ -1,0 +1,28 @@
+{
+  "name": "digital-hotel",
+  "version": "1.0.0",
+  "description": "Booking hotel system using node.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianbeys/digital-hotel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianbeys/digital-hotel/issues"
+  },
+  "homepage": "https://github.com/adrianbeys/digital-hotel#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.1.0",
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
